@@ -73,7 +73,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - CHC202502
 
 env:
   TZ: America/New_York
